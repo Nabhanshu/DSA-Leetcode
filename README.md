@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nabhanshu/letscode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Nabhanshu/letscode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Nabhanshu/letscode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nabhanshu/letscode/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nabhanshu/letscode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nabhanshu/letscode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
