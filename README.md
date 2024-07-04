@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nabhanshu/letscode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Nabhanshu/letscode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Nabhanshu/letscode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nabhanshu/letscode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Nabhanshu/letscode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nabhanshu/letscode/tree/master/0206-reverse-linked-list) |
 ## Sorting
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nabhanshu/letscode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Nabhanshu/letscode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Nabhanshu/letscode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
