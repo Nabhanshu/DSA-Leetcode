@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nabhanshu/letscode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Nabhanshu/letscode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nabhanshu/letscode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Nabhanshu/letscode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Nabhanshu/letscode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nabhanshu/letscode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Nabhanshu/letscode/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Nabhanshu/letscode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nabhanshu/letscode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nabhanshu/letscode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Nabhanshu/letscode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Nabhanshu/letscode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nabhanshu/letscode/tree/master/0142-linked-list-cycle-ii) |
@@ -119,5 +122,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Nabhanshu/letscode/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
