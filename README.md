@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Nabhanshu/letscode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Nabhanshu/letscode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nabhanshu/letscode/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Nabhanshu/letscode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Nabhanshu/letscode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Nabhanshu/letscode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Nabhanshu/letscode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nabhanshu/letscode/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Nabhanshu/letscode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nabhanshu/letscode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nabhanshu/letscode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nabhanshu/letscode/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Nabhanshu/letscode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Nabhanshu/letscode/tree/master/0908-middle-of-the-linked-list) |
 ## Union Find
 |  |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Nabhanshu/letscode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
