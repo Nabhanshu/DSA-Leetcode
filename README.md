@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nabhanshu/letscode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Nabhanshu/letscode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nabhanshu/letscode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Nabhanshu/letscode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Nabhanshu/letscode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Nabhanshu/letscode/tree/master/0074-search-a-2d-matrix) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Nabhanshu/letscode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Nabhanshu/letscode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
