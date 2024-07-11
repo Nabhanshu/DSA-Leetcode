@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nabhanshu/letscode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Nabhanshu/letscode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Nabhanshu/letscode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nabhanshu/letscode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nabhanshu/letscode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Nabhanshu/letscode/tree/master/0074-search-a-2d-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nabhanshu/letscode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
