@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Nabhanshu/letscode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Nabhanshu/letscode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Nabhanshu/letscode/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nabhanshu/letscode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nabhanshu/letscode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nabhanshu/letscode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Nabhanshu/letscode/tree/master/0128-longest-consecutive-sequence) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nabhanshu/letscode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nabhanshu/letscode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/Nabhanshu/letscode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nabhanshu/letscode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nabhanshu/letscode/tree/master/0234-palindrome-linked-list) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nabhanshu/letscode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nabhanshu/letscode/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
