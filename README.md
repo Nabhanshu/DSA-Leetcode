@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nabhanshu/letscode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nabhanshu/letscode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Nabhanshu/letscode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Nabhanshu/letscode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Nabhanshu/letscode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Nabhanshu/letscode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Nabhanshu/letscode/tree/master/0485-max-consecutive-ones) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nabhanshu/letscode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Nabhanshu/letscode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Nabhanshu/letscode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -217,8 +219,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nabhanshu/letscode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nabhanshu/letscode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Nabhanshu/letscode/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nabhanshu/letscode/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nabhanshu/letscode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nabhanshu/letscode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
