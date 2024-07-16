@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Nabhanshu/letscode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Nabhanshu/letscode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nabhanshu/letscode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/Nabhanshu/letscode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nabhanshu/letscode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Nabhanshu/letscode/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/Nabhanshu/letscode/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nabhanshu/letscode/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Nabhanshu/letscode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
