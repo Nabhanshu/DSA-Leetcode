@@ -167,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Nabhanshu/letscode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nabhanshu/letscode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Nabhanshu/letscode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Nabhanshu/letscode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nabhanshu/letscode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nabhanshu/letscode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Nabhanshu/letscode/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Nabhanshu/letscode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nabhanshu/letscode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nabhanshu/letscode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/Nabhanshu/letscode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Nabhanshu/letscode/tree/master/1036-rotting-oranges) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Nabhanshu/letscode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
