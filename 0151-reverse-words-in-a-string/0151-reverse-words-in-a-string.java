@@ -46,21 +46,33 @@ class Solution {
 	// return ans;
 
     // optimal 
-    String result = new String();
-    int i = 0;
-    int n = s.length();
+    // String result = new String();
+    // int i = 0;
+    // int n = s.length();
 
-    while(i < n){
-        while(i < n && s.charAt(i) == ' ') i++;
-        if(i >= n) break;
-        int j = i + 1;
-        while(j < n && s.charAt(j) != ' ') j++;
-        String sub = s.substring(i, j);
-        if(result.length() == 0) result = sub;
-        else result = sub + " " + result;
-        i = j+1;
+    // while(i < n){
+    //     while(i < n && s.charAt(i) == ' ') i++;
+    //     if(i >= n) break;
+    //     int j = i + 1;
+    //     while(j < n && s.charAt(j) != ' ') j++;
+    //     String sub = s.substring(i, j);
+    //     if(result.length() == 0) result = sub;
+    //     else result = sub + " " + result;
+    //     i = j+1;
+    // }
+    // return result;
+
+    // by using trim and regex
+    String words[]=s.split(" +");
+    StringBuilder ss=new StringBuilder();
+    for(int i=words.length-1;i>=0;i--){
+        ss.append(words[i]);
+        ss.append(" ");
+
     }
-    return result;
+    return ss.toString().trim();
+
+
 
     }
 }
