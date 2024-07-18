@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nabhanshu/letscode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Nabhanshu/letscode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Nabhanshu/letscode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nabhanshu/letscode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Nabhanshu/letscode/tree/master/0128-longest-consecutive-sequence) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nabhanshu/letscode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Nabhanshu/letscode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Nabhanshu/letscode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Nabhanshu/letscode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Nabhanshu/letscode/tree/master/0062-unique-paths) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nabhanshu/letscode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Nabhanshu/letscode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Nabhanshu/letscode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Nabhanshu/letscode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Nabhanshu/letscode/tree/master/0151-reverse-words-in-a-string) |
