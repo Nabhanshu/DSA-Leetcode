@@ -55,8 +55,8 @@ class Solution {
     public static  List<Integer> inorderTraversal(TreeNode root) {
         ArrayList<Integer> List=new ArrayList<>();
  
-        //    inorder(root,List);
-        func(root,List);
+           inorder(root,List);
+        // func(root,List);
        return List;
         
 
