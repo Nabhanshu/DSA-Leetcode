@@ -24,10 +24,39 @@ class Solution {
        preorder(root.right,List);
 
     }
+     public static void func(TreeNode root, ArrayList<Integer> list){
+        TreeNode curr=root;
+        while(curr!=null){
+
+            if(curr.left==null){
+                list.add(curr.val);
+                curr=curr.right;
+            }else{
+               TreeNode prev=curr.left;
+                while(prev.right!=null && prev.right!=curr){
+                    prev=prev.right;
+                }
+
+                if(prev.right==null){
+                    prev.right=curr;
+                      list.add(curr.val);
+                    curr=curr.left;
+                }else{
+                    prev.right=null;
+                  
+                    curr=curr.right;
+                }
+            }
+
+           
+        }
+         return ;
+    }
     public List<Integer> preorderTraversal(TreeNode root) {
           ArrayList<Integer> List=new ArrayList<>();
  
-           preorder(root,List);
+        //    preorder(root,List);
+        func(root,List);
 
        return List;
         
