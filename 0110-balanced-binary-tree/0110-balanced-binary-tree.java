@@ -20,25 +20,38 @@ class Solution {
             return 0;
     }
 
-   return Math.max( getheight(root.left) ,getheight(root.right)) +1;
+int lh=getheight(root.left);
+if(lh==-1){
+    return -1;
+}
+int rh=getheight(root.right);
+if(rh==-1){
+    return -1;
+}
+if(Math.abs(lh-rh)>1){
+    return -1;
+}
+   return Math.max( lh ,rh) +1;
 
     }
     public boolean isBalanced(TreeNode root) {
         
-        if(root==null){
-            return true;
-        }
+        // if(root==null){
+        //     return true;
+        // }
 
-        if( Math.abs(getheight(root.left)-getheight(root.right))<=1 && isBalanced(root.left) &&  isBalanced(root.right)){
-            return true;
-        }
+        // if( Math.abs(getheight(root.left)-getheight(root.right))<=1 && isBalanced(root.left) &&  isBalanced(root.right)){
+        //     return true;
+        // }
 
         // if(isBalanced(root.left) &&  isBalanced(root.right)){
         //       return true;
         // }
+
+        return getheight(root)!=-1;
        
 
-        return false;
+        // return false;
 
     
     }
