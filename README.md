@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nabhanshu/letscode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Nabhanshu/letscode/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/Nabhanshu/letscode/tree/master/0801-is-graph-bipartite) |
 ## Linked List
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Nabhanshu/letscode/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nabhanshu/letscode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nabhanshu/letscode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Nabhanshu/letscode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nabhanshu/letscode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Nabhanshu/letscode/tree/master/1036-rotting-oranges) |
 ## Data Stream
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Nabhanshu/letscode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nabhanshu/letscode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nabhanshu/letscode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Nabhanshu/letscode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nabhanshu/letscode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nabhanshu/letscode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nabhanshu/letscode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/Nabhanshu/letscode/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
