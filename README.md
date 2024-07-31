@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Nabhanshu/letscode/tree/master/0455-assign-cookies) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Nabhanshu/letscode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Nabhanshu/letscode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Nabhanshu/letscode/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/Nabhanshu/letscode/tree/master/0686-repeated-string-match) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Nabhanshu/letscode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
