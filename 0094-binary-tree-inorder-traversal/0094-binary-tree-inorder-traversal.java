@@ -24,7 +24,7 @@ class Solution {
                 curr=curr.right;
             }else{
                TreeNode prev=curr.left;
-                while(prev.right!=null  ){
+                while(prev.right!=null && prev.right!=curr  ){
                     prev=prev.right;
                 }
 
