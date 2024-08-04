@@ -55,8 +55,8 @@ class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
           ArrayList<Integer> List=new ArrayList<>();
  
-        //    preorder(root,List);
-        func(root,List);
+           preorder(root,List);
+        // func(root,List);
 
        return List;
         
