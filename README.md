@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Nabhanshu/letscode/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Nabhanshu/letscode/tree/master/0131-palindrome-partitioning) |
+| [1250-longest-common-subsequence](https://github.com/Nabhanshu/letscode/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nabhanshu/letscode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Combinatorics
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Nabhanshu/letscode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Nabhanshu/letscode/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/Nabhanshu/letscode/tree/master/0686-repeated-string-match) |
+| [1250-longest-common-subsequence](https://github.com/Nabhanshu/letscode/tree/master/1250-longest-common-subsequence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Nabhanshu/letscode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Heap (Priority Queue)
 |  |
