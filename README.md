@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nabhanshu/letscode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Nabhanshu/letscode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Nabhanshu/letscode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Nabhanshu/letscode/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/Nabhanshu/letscode/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Nabhanshu/letscode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nabhanshu/letscode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nabhanshu/letscode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Nabhanshu/letscode/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Nabhanshu/letscode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Nabhanshu/letscode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Nabhanshu/letscode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Nabhanshu/letscode/tree/master/0165-compare-version-numbers) |
