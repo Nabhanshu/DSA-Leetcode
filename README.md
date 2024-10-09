@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Nabhanshu/letscode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nabhanshu/letscode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Nabhanshu/letscode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Nabhanshu/letscode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Nabhanshu/letscode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nabhanshu/letscode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nabhanshu/letscode/tree/master/0090-subsets-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Nabhanshu/letscode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Nabhanshu/letscode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Nabhanshu/letscode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Nabhanshu/letscode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
