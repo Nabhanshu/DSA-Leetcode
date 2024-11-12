@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Nabhanshu/letscode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nabhanshu/letscode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Nabhanshu/letscode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Nabhanshu/letscode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Nabhanshu/letscode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Nabhanshu/letscode/tree/master/0074-search-a-2d-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nabhanshu/letscode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Nabhanshu/letscode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nabhanshu/letscode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nabhanshu/letscode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Nabhanshu/letscode/tree/master/0169-majority-element) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nabhanshu/letscode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Nabhanshu/letscode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Nabhanshu/letscode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Nabhanshu/letscode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Nabhanshu/letscode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Nabhanshu/letscode/tree/master/0131-palindrome-partitioning) |
