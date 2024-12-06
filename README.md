@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nabhanshu/letscode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Nabhanshu/letscode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Nabhanshu/letscode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Nabhanshu/letscode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nabhanshu/letscode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nabhanshu/letscode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nabhanshu/letscode/tree/master/0090-subsets-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nabhanshu/letscode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Nabhanshu/letscode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Nabhanshu/letscode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Nabhanshu/letscode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nabhanshu/letscode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Nabhanshu/letscode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nabhanshu/letscode/tree/master/0138-copy-list-with-random-pointer) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nabhanshu/letscode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Nabhanshu/letscode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nabhanshu/letscode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Nabhanshu/letscode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Nabhanshu/letscode/tree/master/1036-rotting-oranges) |
