@@ -39,6 +39,32 @@ class Solution {
             }
 
         }
+        // for(int i=0;i<arr.length;i++){
+        //     for(int j=0;j<arr[0].length;j++){
+        //         if(arr[i][j]==0){
+        //             for(int m=0;m<arr.length;m++){
+        //                 if(arr[m][j]!=0){
+        //                 arr[m][j]=-1;
+        //                 }
+        //             }
+        //                for(int n=0;n<arr[0].length;n++){
+        //                 if(arr[i][n]!=0){
+        //                 arr[i][n]=-1;
+        //                 }
+        //             }
+
+
+        //         }
+        //     }
+        // }
+
+        // for(int i=0;i<arr.length;i++){
+        //     for(int j=0;j<arr[0].length;j++){
+        //         if(arr[i][j]==-1){
+        //             arr[i][j]=0;
+        //         }
+        //     }
+        // }
         
     }
 }
