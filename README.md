@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nabhanshu/letscode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Nabhanshu/letscode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Nabhanshu/letscode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Nabhanshu/letscode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Nabhanshu/letscode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nabhanshu/letscode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Nabhanshu/letscode/tree/master/0229-majority-element-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Nabhanshu/letscode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Nabhanshu/letscode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Nabhanshu/letscode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Nabhanshu/letscode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Nabhanshu/letscode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nabhanshu/letscode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Nabhanshu/letscode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/Nabhanshu/letscode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Nabhanshu/letscode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Nabhanshu/letscode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nabhanshu/letscode/tree/master/0653-two-sum-iv-input-is-a-bst) |
